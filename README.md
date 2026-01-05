@@ -23,7 +23,9 @@ Progress pemain aman berkat sistem penyimpanan **localStorage**. Data yang tersi
 - **Smart Contract Sync**: Integrasi saldo token ALEX asli dari blockchain
 - **Airdrop Mechanism**: Syarat minimal 100 taps untuk melakukan klaim
 - **Network Guard**: Peringatan otomatis jika dompet tidak terhubung ke jaringan yang benar
-![Dashboard AlexTap](frontend/public/alex.png)
+- 
+      ![Dashboard AlexTap](frontend/public/alex.png)
+
 ---
 
 ## 🛠️ Prasyarat & Setup
@@ -92,7 +94,7 @@ npm install
 npm start
 ```
 
-Aplikasi akan membuka otomatis di `http://localhost:3000`.
+Aplikasi akan membuka otomatis di `http://localhost:5173`.
 
 ---
 
