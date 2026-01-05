@@ -23,7 +23,7 @@ Progress pemain aman berkat sistem penyimpanan **localStorage**. Data yang tersi
 - **Smart Contract Sync**: Integrasi saldo token ALEX asli dari blockchain
 - **Airdrop Mechanism**: Syarat minimal 100 taps untuk melakukan klaim
 - **Network Guard**: Peringatan otomatis jika dompet tidak terhubung ke jaringan yang benar
-
+![Dashboard AlexTap](frontend/public/alex.png)
 ---
 
 ## 🛠️ Prasyarat & Setup
@@ -269,7 +269,7 @@ REACT_APP_NETWORK_NAME="Hardhat Local"
 
 ## 📄 Lisensi
 
-Project ini dilisensikan di bawah MIT License.
+Project ini dilisensikan di bawah MIT License [MIT License](LICENSE).
 
 ---
 
